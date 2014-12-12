@@ -5,7 +5,7 @@ alipay-ten-year
 
 项目主要用于生成阿里巴巴支付宝12月8号的 十年账单日记 活动的辅助工具，可以生成类似于以下的图片，目前已经被支付宝官方微博（[支付宝官方微博](http://weibo.com/1627897870/BzSkvavUv?type=comment)）使用。
 
-![](http://ali.atool.org/res/images/templete600.jpg)
+![](https://raw.githubusercontent.com/hustcc/alipay-ten-year/master/res/images/templete600.jpg)
 
 
 ## 说明 ##
